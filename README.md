@@ -6,8 +6,9 @@ Study Material For Certified CloudBees Jenkins Platform Engineer (CCJPE)
 This topic comprises approximately 18% of the exam. Questions cover the following topics:
 
 ** Continuous Delivery/Continuous Integration Concepts 
-o Define continuous integration, continuous delivery, continuous deployment o Difference between CI and CD
-o Stages of CI and CD
-o Continuous delivery versus continuous deployment
+
+- Define continuous integration, continuous delivery, continuous deployment o Difference between CI and CD
+- Stages of CI and CD
+- Continuous delivery versus continuous deployment
 
 
